@@ -36,3 +36,4 @@ Json
 • For cart page we have used JavaScript
 • For getting response we have used json.
 ![image](https://user-images.githubusercontent.com/105526680/182801374-54fa91e7-63aa-4052-bdf5-43684164f86d.png)
+![image](https://user-images.githubusercontent.com/105526680/182801753-db164472-9cf1-41fd-96f2-7b4f199df2fe.png)
